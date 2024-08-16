@@ -1,4 +1,4 @@
-## Finance and Macroeconomics Unit at Insper
+## Insper Finance and Macroeconomics Unit
 
 Welcome to the github organization for the Finance and Macroeconomics Unit at Insper!
 
